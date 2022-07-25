@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lizhikai38.toxo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lizhikai38.toxo.MyBundle
 
 class MyApplicationService {
 
